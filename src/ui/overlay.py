@@ -1,7 +1,3 @@
-"""
-UI Overlay - Visual feedback and indicators
-"""
-
 import cv2
 import numpy as np
 

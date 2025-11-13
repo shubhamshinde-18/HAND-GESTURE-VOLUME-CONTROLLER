@@ -45,8 +45,7 @@ class VolumeManager:
 
 
     def set_volume(self, volume_percent):
-        """Set system volume using scalar scale  for accurate %
-        """
+        """Set system volume using scalar scale  for accurate %"""
         self.current_volume = max(0, min(100, volume_percent)) 
 
         if not self.enabled or not self.pycaw_available:
