@@ -53,7 +53,7 @@ hand-volume-controller/
 ## ⚙️ Installation
 
 ### 1. Clone
-git clone https://github.com/YOUR_USERNAME/hand-volume-controller.git
+git clone  https://github.com/shubhamshinde-18/HAND-GESTURE-VOLUME-CONTROLLER.git
 cd hand-volume-controller
 
 ### 2. Create Environment
